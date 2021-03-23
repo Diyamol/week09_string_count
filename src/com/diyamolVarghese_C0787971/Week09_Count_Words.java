@@ -1,8 +1,8 @@
-package com.diyamolVarghese_C078791;
+package com.diyamolVarghese_C0787971;
 
 import java.util.ArrayList;
 
-public class Week09_Word_Count {
+public class Week09_Count_Words {
     public static void main(String[] args) {
         String str = "hello hello how Are you HELLO are there happy test you";
         ArrayList<String> items=new ArrayList<String>();
